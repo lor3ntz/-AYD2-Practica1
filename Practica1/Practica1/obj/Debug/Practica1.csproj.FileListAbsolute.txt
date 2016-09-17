@@ -24,3 +24,29 @@ c:\users\enki\documents\visual studio 2013\Projects\Practica1\Practica1\bin\Antl
 c:\users\enki\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.csprojResolveAssemblyReference.cache
 c:\users\enki\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.dll
 c:\users\enki\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Practica1.dll.config
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Practica1.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Practica1.pdb
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Antlr3.Runtime.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Microsoft.Web.Infrastructure.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Newtonsoft.Json.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Helpers.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Mvc.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Optimization.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Razor.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.WebPages.Deployment.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.WebPages.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.WebPages.Razor.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\WebGrease.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Helpers.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Mvc.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Optimization.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.Razor.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.WebPages.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.WebPages.Deployment.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\System.Web.WebPages.Razor.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Newtonsoft.Json.xml
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\bin\Antlr3.Runtime.pdb
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\obj\Debug\Practica1.csprojResolveAssemblyReference.cache
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\obj\Debug\Practica1.dll
+C:\Repositorio\-AYD2-Practica1\Practica1\Practica1\obj\Debug\Practica1.pdb
